@@ -22,3 +22,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Misc
+remove breaking lint stuff. not advanced enough to deal with it now:
+npm remove @vue/cli-plugin-eslint
